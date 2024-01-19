@@ -33,3 +33,9 @@ Elas estão disponíveis para download (se você puxar os dados direto do Kaggle
 - Acredito que a sazonalidade pode ser um fator importante, visto que meses como dezembro costumam ser bem caros no RJ
 - A localização do imóvel deve fazer muita diferença no preço, já que no Rio de Janeiro a localização pode mudar completamente as características do lugar (segurança, beleza natural, pontos turísticos)
 - Adicionais/Comodidades podem ter um impacto significativo, visto que temos muitos prédios e casas antigos no Rio de Janeiro
+
+### Autor
+  
+- Serbio Aguilar
+- www.linkedin.com/in/serbioaguilar
+- serbioaguilar@gmail.com
