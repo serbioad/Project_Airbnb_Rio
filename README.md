@@ -12,7 +12,7 @@ Nesse anúncio, o host deve descrever as características do imóvel da forma ma
 
 Existem dezenas de personalizações possíveis no seu anúncio, desde quantidade mínima de diária, preço, quantidade de quartos, até regras de cancelamento, taxa extra para hóspedes extras, exigência de verificação de identidade do locador, etc.
 
-### Ojetivo
+### Objetivo
 
 Construir um modelo de previsão de preço que permita uma pessoa comum que possui um imóvel possa saber quanto deve cobrar pela diária do seu imóvel.
 
